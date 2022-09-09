@@ -6,16 +6,17 @@
  */
 int main(void)
 {
-	int N;
+	int X;
 
-	for (N = 48; N < 58; N++)
+	for (X = 48; X < 58; X++)
 	{
-		putchar(N);
+		putchar(X);
 	}
-	for (N = 97; N < 103; N++)
+	for (X = 97; X < 103; X++)
 	{
-		putchar(N);
+		putchar(X);
 	}
-	putchar('/n');
+	putchar('\n');
 	return (0);
 }
+
