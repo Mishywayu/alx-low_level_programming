@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  *
- * Return: Alway 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 
 	for (x = 0; x < 8; x++)
 	{
-	_putchar(sh[x]);
+		_putchar(sh[x]);
 	}
 	_putchar('\n');
 	return (0);
