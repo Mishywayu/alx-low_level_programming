@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * @c: integer
- *
  * _abs - computes absolute value of a value
  *
- * description: computes integer
+ * @c: int
  *
- * Return: Always 0 (Success)
+ * description : computes integer
+ *
+ * Return: int
  */
 int _abs(int c)
 {
