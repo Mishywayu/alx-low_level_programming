@@ -2,8 +2,11 @@
 #include "main.h"
 /**
  * @c: integer
+ *
  * _abs - computes absolute value of a value
- * description : computes integer
+ *
+ * description: computes integer
+ *
  * Return: Always 0 (Success)
  */
 int _abs(int c)
