@@ -3,11 +3,11 @@
 /**
  * print_last_digit - prints out last digit
  *
- * @a: int
+ * @a: integer
  *
- * description: prints the last digit of a number.
+ * description : prints out the last digit of a value
  *
- * Return value
+ * Return: a
  */
 int print_last_digit(int a)
 {
