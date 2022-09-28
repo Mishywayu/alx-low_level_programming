@@ -1,1 +1,1 @@
-Beggining my journey of learning C programming today
+more functions
